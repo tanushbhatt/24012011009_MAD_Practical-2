@@ -190,16 +190,15 @@ The Android application successfully demonstrates **Basic UI** and the
 **Activity Life Cycle** using Logcat, Toast, and Snackbar messages.
 <table>
   <tr>
-    <td><img width="1917" height="1077" alt="Screenshot 2026-07-04 224905" src="https://github.com/user-attachments/assets/21773f86-33be-4ab8-8082-4022ba3ad63b" /></td>
-    <td><img width="1917" height="1078" alt="Screenshot 2026-07-04 011955" src="https://github.com/user-attachments/assets/a97c794d-4bd9-4bf0-bace-cd30713e31ef" /></td>
-    <td><img width="1917" height="1075" alt="Screenshot 2026-07-04 012009" src="https://github.com/user-attachments/assets/cf5073aa-730b-4fd5-8167-9abf6df59120" /></td>
+     <td><img width="1722" height="280" alt="image" src="https://github.com/user-attachments/assets/b34b71a3-8c78-4d4a-bf27-6a64aa5b0fc6" /></td>
+      <td><img width="1917" height="502" alt="image" src="https://github.com/user-attachments/assets/8a8039c2-90df-4c1e-a7d7-a7409d9c1e5c" /></td>
   </tr>
+    <tr>
+        <td><img width="1917" height="501" alt="image" src="https://github.com/user-attachments/assets/bae372a9-4f7a-4bea-bdd6-661f43bba34b" /></td>
+        <td><img width="1917" height="498" alt="image" src="https://github.com/user-attachments/assets/901ae0dc-3632-4812-8fd5-31314c75bc72" /></td>
+    </tr>
   <tr>
-    <td><img width="1917" height="1078" alt="Screenshot 2026-07-04 012028" src="https://github.com/user-attachments/assets/012ed086-5e7b-4c79-8c3d-e10cbf72b12f" /></td>
-    <td><img width="1912" height="1078" alt="Screenshot 2026-07-04 012454" src="https://github.com/user-attachments/assets/3db7a652-71a9-45e1-bdfd-e02dd342016e" /></td>
-    <td><img width="1917" height="1077" alt="Screenshot 2026-07-09 224455" src="https://github.com/user-attachments/assets/92b6a67d-f1dc-4d8f-aee8-95b0f048e580" /></td>
-  </tr>
-  <tr>
-    <td><img width="1917" height="1077" alt="Screenshot 2026-07-09 225146" src="https://github.com/user-attachments/assets/89c859a7-5f47-4c65-8c16-70dd00cfa48b" /></td>
+      <td><img width="1917" height="495" alt="image" src="https://github.com/user-attachments/assets/cc0a81d2-4304-4b7d-94a1-d72dbfe95a71" /></td>
+      <td><img width="386" height="862" alt="image" src="https://github.com/user-attachments/assets/d564400a-0776-4103-9ff5-fe80122ddf8f" /></td>
   </tr>
 </table>
